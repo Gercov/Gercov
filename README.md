@@ -1,5 +1,5 @@
 # Aleksandr Gercov ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Gercov) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gercov&count_private=false&langs_count=7&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gercov&count_private=false&langs_count=7&layout=compact)
 
 <!--
 **

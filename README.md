@@ -11,7 +11,7 @@ Hi, my name is Aleksandr, I'm Junior Frontend developer from Russia. My favorite
  - Bootstrap
  - Element-Plus
 ## Backend: 
- - NodeJS ( Express/Socket.IO )
+ - NodeJS ( Express / Socket.IO )
  - MySQL
  - Nginx
 ## Other: 

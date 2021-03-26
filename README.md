@@ -1,5 +1,7 @@
 # Aleksandr Gercov ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Gercov) 
 
+![Gercov GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gercov1&count_private=true&hide=contribs&show_icons=true&theme=default&layout=compact)
+
 <!--
 **Gercov/Gercov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

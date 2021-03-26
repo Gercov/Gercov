@@ -2,19 +2,19 @@
 
 Hi, my name is Aleksandr, I'm Junior Frontend developer from Russia. My favorite language is JavaScript. 
 
-## My Skills: 
+# My Skills: 
  - VCS: Git
-### Frontend: 
+## Frontend: 
  - HTML/CSS
  - JavaScript
  - Vue.js
  - Bootstrap
  - Element-Plus
-### Backend: 
+## Backend: 
  - NodeJS ( Express/Socket.IO )
  - MySQL
  - Nginx
-### Other: 
+## Other: 
  - Linux, Bash
 <!--
 **

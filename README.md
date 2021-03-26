@@ -1,9 +1,9 @@
 # Aleksandr Gercov ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Gercov) 
 
-- ![Gercov GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gercov&count_private=true&hide=contribs&show_icons=true&theme=default&layout=compact&bg_color=RED)
+- 
 
 <!--
-**Gercov/Gercov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**![Gercov GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gercov&count_private=true&hide=contribs&show_icons=true&theme=default&layout=compact&bg_color=RED)
 
 Here are some ideas to get you started:
 

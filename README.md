@@ -9,7 +9,6 @@ Hi, my name is Aleksandr, I'm Junior Frontend developer from Russia.
  - JavaScript
  - Vue.js
  - Bootstrap
- - Element-Plus
 ## Backend: 
  - NodeJS ( Express / Socket.IO )
  - MySQL

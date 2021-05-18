@@ -8,7 +8,7 @@ Hi, my name is Aleksandr, I'm Junior Frontend developer from Russia.
  - HTML/CSS
  - JavaScript
  - Vue.js
- - Bootstrap
+ - Bulma
 ## Backend: 
  - NodeJS ( Express / Socket.IO )
  - MySQL

@@ -13,6 +13,7 @@ Hi, my name is Aleksandr, I'm Junior Frontend developer from Russia.
  - NodeJS ( Express / Socket.IO )
  - MongoDB
  - Nginx
+ - Docker
 ## Other: 
  - Linux, Bash
 

@@ -11,7 +11,7 @@ Hi, my name is Aleksandr, I'm Junior Frontend developer from Russia.
  - Bulma
 ## Backend: 
  - NodeJS ( Express / Socket.IO )
- - MySQL
+ - MongoDB
  - Nginx
 ## Other: 
  - Linux, Bash

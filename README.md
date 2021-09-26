@@ -1,6 +1,6 @@
 # Aleksandr Gercov ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Gercov) 
 
-Hi, my name is Aleksandr, I'm Junior Frontend developer from Russia.
+Hi, my name is Aleksandr, I'm Junior Fullstack developer from Russia.
 
 # My Skills: 
  - VCS: Git

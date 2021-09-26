@@ -10,7 +10,7 @@ Hi, my name is Aleksandr, I'm Junior Fullstack developer from Russia.
 ## Frontend: 
  - HTML/CSS
  - JavaScript
- - Vue.js
+ - Vue.js (Nuxt)
  - SASS/SCSS, Handlebars
 ## Backend: 
  - NodeJS ( Express / Socket.IO )
